@@ -7,7 +7,7 @@
 
 int main() {
 
-    int a[10][10],i,j,m,n;
+    int a[100][100],i,j,m,n;
     scanf("%d %d",&m,&n);
     for(i=0; i<m; i++)
     {
