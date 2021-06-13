@@ -20,7 +20,7 @@ int main()
 
   
   if(x==1){ 
-    printf("Enter the numer of contacts to add:>\n");
+    printf("Enter the number of contacts to add:>\n");
     scanf("%d",&n);
     for (i = 0; i < n; i++)
     {
